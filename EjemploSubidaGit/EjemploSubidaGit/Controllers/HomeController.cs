@@ -15,7 +15,8 @@ namespace EjemploSubidaGit.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Hola amigos de la programación";
+            ViewBag.Message = "Hola amigos de la programación Este es mi ejemplo";
+            
 
             return View();
         }
